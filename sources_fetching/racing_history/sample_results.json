@@ -1,0 +1,206 @@
+{
+  'name': 'magnus-elbaek-ditlev',
+  'race_results': [
+    {
+      'races': {
+        'year': 2023,
+        'results_list': [
+          {
+            'Date': '6 May',
+            'Place': '3',
+            'Race': 'PTO European Open',
+            'Swim': '23:48',
+            'Bike': '1:48:55',
+            'Run': '1:00:45',
+            'Overall': '3:15:36'
+          }
+        ]
+      }
+    },
+    {
+      'races': {
+        'year': 2022,
+        'results_list': [
+          {
+            'Date': '20 Nov',
+            'Place': '1',
+            'Race': 'Ironman Cozumel',
+            'Swim': '43:39',
+            'Bike': '4:04:05',
+            'Run': '2:59:01',
+            'Overall': '7:50:40'
+          },
+          {
+            'Date': '29 Oct',
+            'Place': '3',
+            'Race': 'Ironman 70.3 World Championship',
+            'Swim': '23:03',
+            'Bike': '1:59:58',
+            'Run': '1:14:06',
+            'Overall': '3:39:51'
+          },
+          {
+            'Date': '8 Oct',
+            'Place': '8',
+            'Race': 'Ironman Hawaii',
+            'Swim': '49:48',
+            'Bike': '4:13:37',
+            'Run': '2:48:10',
+            'Overall': '7:56:37'
+          },
+          {
+            'Date': '18 Sep',
+            'Place': '2',
+            'Race': 'PTO US Open',
+            'Swim': '27:47',
+            'Bike': '1:47:23',
+            'Run': '1:00:52',
+            'Overall': '3:17:58'
+          },
+          {
+            'Date': '20 Aug',
+            'Place': '5',
+            'Race': 'Collins Cup',
+            'Swim': '24:09',
+            'Bike': '1:44:11',
+            'Run': '1:02:06',
+            'Overall': '3:13:30'
+          },
+          {
+            'Date': '3 Jul',
+            'Place': '1',
+            'Race': 'Challenge Roth',
+            'Swim': '50:44',
+            'Bike': '4:01:56',
+            'Run': '2:40:22',
+            'Overall': '7:35:48'
+          },
+          {
+            'Date': '23 Apr',
+            'Place': '2',
+            'Race': 'Ironman Texas',
+            'Swim': '52:39',
+            'Bike': '4:20:22',
+            'Run': '2:40:56',
+            'Overall': '7:58:11'
+          },
+          {
+            'Date': '11 Mar',
+            'Place': 'DNF',
+            'Race': 'Clash Miami',
+            'Swim': '--:--',
+            'Bike': '--:--',
+            'Run': '--:--',
+            'Overall': '--:--'
+          }
+        ]
+      }
+    },
+    {
+      'races': {
+        'year': 2021,
+        'results_list': [
+          {
+            'Date': '4 Dec',
+            'Place': '2',
+            'Race': 'Clash Daytona',
+            'Swim': '25:12',
+            'Bike': '1:40:44',
+            'Run': '1:02:01',
+            'Overall': '3:10:07'
+          },
+          {
+            'Date': '24 Oct',
+            'Place': '1',
+            'Race': 'Ironman 70.3 Portugal',
+            'Swim': '22:53',
+            'Bike': '2:07:18',
+            'Run': '1:12:13',
+            'Overall': '3:47:50'
+          },
+          {
+            'Date': '16 Oct',
+            'Place': '3',
+            'Race': 'Challenge Peguera Mallorca',
+            'Swim': '25:00',
+            'Bike': '2:08:37',
+            'Run': '1:09:59',
+            'Overall': '3:47:07'
+          },
+          {
+            'Date': '10 Oct',
+            'Place': '1',
+            'Race': 'Challenge Budva',
+            'Swim': '24:20',
+            'Bike': '2:06:00',
+            'Run': '1:13:15',
+            'Overall': '3:46:29'
+          },
+          {
+            'Date': '18 Sep',
+            'Place': '8',
+            'Race': 'Ironman 70.3 World Championship',
+            'Swim': '25:00',
+            'Bike': '1:59:29',
+            'Run': '1:18:24',
+            'Overall': '3:45:09'
+          },
+          {
+            'Date': '29 Aug',
+            'Place': '2',
+            'Race': 'Challenge "The Championship" Samorin',
+            'Swim': '27:22',
+            'Bike': '1:56:30',
+            'Run': '1:10:11',
+            'Overall': '3:39:44'
+          },
+          {
+            'Date': '27 Jun',
+            'Place': '7',
+            'Race': 'Ironman 70.3 Elsinore',
+            'Swim': '22:17',
+            'Bike': '2:02:26',
+            'Run': '1:11:50',
+            'Overall': '3:41:44'
+          },
+          {
+            'Date': '30 May',
+            'Place': '11',
+            'Race': 'Challenge St Pölten',
+            'Swim': '25:45',
+            'Bike': '2:12:35',
+            'Run': '1:09:58',
+            'Overall': '3:53:41'
+          },
+          {
+            'Date': '1 May',
+            'Place': '3',
+            'Race': 'Ironman 70.3 St. George',
+            'Swim': '23:24',
+            'Bike': '2:01:25',
+            'Run': '1:16:05',
+            'Overall': '3:45:10'
+          },
+          {
+            'Date': '18 Apr',
+            'Place': 'DNF',
+            'Race': 'Ironman 70.3 Florida',
+            'Swim': '--:--',
+            'Bike': '--:--',
+            'Run': '--:--',
+            'Overall': '--:--'
+          },
+          {
+            'Date': '12 Mar',
+            'Place': '6',
+            'Race': 'Challenge Miami',
+            'Swim': '21:38',
+            'Bike': '1:20:21',
+            'Run': '58:32',
+            'Overall': '2:42:46'
+          }
+        ]
+      }
+    }
+  ]
+}

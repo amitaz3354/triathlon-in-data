@@ -1,0 +1,1 @@
+# fetch all race names -> bring race results -> calc gaps / deficits
